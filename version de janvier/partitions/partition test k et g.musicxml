@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <identification>
+    <encoding>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2024-01-31</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99911</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1696.94</page-height>
+      <page-width>1200.48</page-width>
+      <page-margins type="even">
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Guitare électrique 1</part-name>
+      <part-abbreviation>Guit. El. 1</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>Guitare électrique</instrument-name>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>28</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    <score-part id="P2">
+      <part-name>Guitare électrique 2</part-name>
+      <part-abbreviation>Guit. El. 2</part-abbreviation>
+      <score-instrument id="P2-I1">
+        <instrument-name>Guitare électrique</instrument-name>
+        </score-instrument>
+      <midi-device id="P2-I1" port="1"></midi-device>
+      <midi-instrument id="P2-I1">
+        <midi-channel>7</midi-channel>
+        <midi-program>28</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="420.96">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>195.89</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>70.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="2" width="411.86">
+      <note>
+        <rest measure="yes"/>
+        <duration>8</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="3" width="513.90">
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-18.90" relative-y="91.42">g = 700</words>
+          </direction-type>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-58.16" relative-y="36.86">k ~ 150 </words>
+          </direction-type>
+        </direction>
+      <note default-x="342.44" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        </note>
+      <note default-x="384.86" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="427.27" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-37.80" relative-y="37.62">k ~ 400</words>
+          </direction-type>
+        </direction>
+      <note default-x="469.68" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        </note>
+      </measure>
+    <measure number="4" width="409.24">
+      <note default-x="60.98" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-49.43" relative-y="37.62">k ~ 200</words>
+          </direction-type>
+        </direction>
+      <note default-x="100.40" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="139.82" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-33.44" relative-y="36.17">k ~ 100</words>
+          </direction-type>
+        </direction>
+      <note default-x="179.23" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="5" width="488.06">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-33.44" relative-y="24.54">k ~ 200</words>
+          </direction-type>
+        </direction>
+      <note default-x="82.21" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="159.71" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-36.35" relative-y="24.54">k ~ 500</words>
+          </direction-type>
+        </direction>
+      <note default-x="362.26" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        </note>
+      </measure>
+    <measure number="6" width="435.08">
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-46.52" relative-y="55.90">k ~ 200</words>
+          </direction-type>
+        </direction>
+      <note default-x="244.07" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="7" width="521.51">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-39.25" relative-y="43.44">k ~ 400</words>
+          </direction-type>
+        </direction>
+      <note default-x="60.40" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-29.08" relative-y="31.81">k ~ 300</words>
+          </direction-type>
+        </direction>
+      <note default-x="311.46" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        </note>
+      <note default-x="380.88" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="450.30" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        </note>
+      </measure>
+    <measure number="8" width="401.62">
+      <note default-x="13.00" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-21.81" relative-y="47.80">k ~ 400</words>
+          </direction-type>
+        </direction>
+      <note default-x="70.42" default-y="-15.00">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>down</stem>
+        </note>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  <part id="P2">
+    <measure number="1" width="420.96">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>90.40</staff-distance>
+          </staff-layout>
+        </print>
+      <attributes>
+        <divisions>2</divisions>
+        <key>
+          <fifths>0</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          <clef-octave-change>-1</clef-octave-change>
+          </clef>
+        </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-61.06" relative-y="29.73">g ~ 100    </words>
+          </direction-type>
+        </direction>
+      <note default-x="82.53" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 200 </words>
+          </direction-type>
+        </direction>
+      <note default-x="335.75" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="2" width="411.86">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-61.06" relative-y="29.73">g ~ 300    </words>
+          </direction-type>
+        </direction>
+      <note default-x="71.16" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 100 </words>
+          </direction-type>
+        </direction>
+      <note default-x="289.14" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="3" width="513.90">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-15.99" relative-y="18.10">g ~ 400    </words>
+          </direction-type>
+        </direction>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-5.82" relative-y="49.32">k = 80</words>
+          </direction-type>
+        </direction>
+      <note default-x="60.40" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 200 </words>
+          </direction-type>
+        </direction>
+      <note default-x="342.44" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="4" width="409.24">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-37.80" relative-y="37.00">g ~ 100    </words>
+          </direction-type>
+        </direction>
+      <note default-x="60.98" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 300 </words>
+          </direction-type>
+        </direction>
+      <note default-x="320.72" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="5" width="488.06">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-24.72" relative-y="34.09">g ~ 100    </words>
+          </direction-type>
+        </direction>
+      <note default-x="82.21" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 200 </words>
+          </direction-type>
+        </direction>
+      <note default-x="362.26" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="6" width="435.08">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-24.72" relative-y="39.91">g ~ 100    </words>
+          </direction-type>
+        </direction>
+      <note default-x="13.00" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 300 </words>
+          </direction-type>
+        </direction>
+      <note default-x="244.07" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="7" width="521.51">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-20.35" relative-y="31.87">g ~ 200    </words>
+          </direction-type>
+        </direction>
+      <note default-x="60.40" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 300 </words>
+          </direction-type>
+        </direction>
+      <note default-x="242.05" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="8" width="401.62">
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-61.06" relative-y="29.73">g ~ 100    </words>
+          </direction-type>
+        </direction>
+      <note default-x="13.00" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <direction placement="above">
+        <direction-type>
+          <words relative-x="-26.17" relative-y="32.64">g ~ 200 </words>
+          </direction-type>
+        </direction>
+      <note default-x="184.28" default-y="-160.40">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>half</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>

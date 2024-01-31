@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <L>1.1915</L>
+    <gamma>678.3169</gamma>
+    <kappa>7.0701</kappa>
+    <sigma0>36.7793</sigma0>
+    <sigma1>0.030138</sigma1>
+    <xrecord>0.1</xrecord>
+    <xp>0.36598</xp>
+    <omega0>332935.2818</omega0>
+    <xe>0.46707</xe>
+    <amp>64819.8758</amp>
+    <pluckDuration>0.00034976</pluckDuration>
+    <bowVelocity>0.2574</bowVelocity>
+    <bowForce>84.2958</bowForce>
+    <exType>bow</exType>
+</struct>
