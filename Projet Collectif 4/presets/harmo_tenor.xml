@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <L>1</L>
+    <gamma>292</gamma>
+    <kappa>1</kappa>
+    <sigma0>.2</sigma0>
+    <sigma1>.001</sigma1>
+    <xrecord>0.1</xrecord>
+    <xe>0.15</xe>
+    <amp>1</amp>
+    <pluckDuration>0.001</pluckDuration>
+    <bowVelocity>0.000001</bowVelocity>
+    <bowForce>2</bowForce>
+    <bowAttack>0</bowAttack>
+    <bowModAmount>0</bowModAmount>
+    <bowModFreq>0</bowModFreq>
+    <exType>pluck</exType>
+    <xr>1</xr>
+    <omega0>0</omega0>
+    <omega1>0</omega1>
+    <sigmar>100</sigmar>
+    <xratt>0</xratt>
+    <omegaratt>0</omegaratt>
+    <mratt>1</mratt>
+</struct>
